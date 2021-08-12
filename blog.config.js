@@ -1,6 +1,6 @@
 const BLOG = {
-  title: 'Chasla',
-  author: 'chasla',
+  title: 'usus.us',
+  author: 'Chalsa',
   email: 'us@usus.us',
   link: 'https://chasla.vercel.app',
   description: 'This gonna be an awesome website.',
